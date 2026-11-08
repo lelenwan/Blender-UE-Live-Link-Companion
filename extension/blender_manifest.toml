@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "blender_ue_live_link"
+version = "0.6.5"
+name = "Blender UE Live Link"
+tagline = "Sync static or skinned models and live transforms to Unreal"
+maintainer = "YanNick"
+type = "add-on"
+blender_version_min = "5.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+network = "Send poses and object transforms using localhost UDP"
+files = "Export models and exchange files with a local Unreal project"

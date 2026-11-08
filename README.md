@@ -1,4 +1,3 @@
-Lines 1-21 of 21:
 # Blender UE Live Link - Blender companion
 
 Free Blender companion extension maintained by YanNick. It sends evaluated skin-bone poses and model updates to the separately distributed UE integration on the same Windows computer.

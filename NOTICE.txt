@@ -1,0 +1,17 @@
+Blender UE Live Link - Blender extension notices
+
+Current maintainer: YanNick
+Support: 16759624@qq.com
+
+This extension is distributed under GPL-3.0-or-later. The complete license is
+included in COPYING.txt. Source files in this archive are the corresponding
+source for this extension; compilation or obfuscation is not required.
+
+The extension was adapted from the originally packaged Blender bridge whose
+metadata attributed it to Kimodo. That upstream attribution is retained here.
+Current standalone integration, model synchronization, IK skin-bone handling,
+localization and maintenance are provided by YanNick. The original component
+license and applicable upstream rights are preserved.
+
+This notice applies to the Blender extension. It does not apply the GPL to
+Unreal Engine itself or replace the license applicable to the UE integration.
